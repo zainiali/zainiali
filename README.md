@@ -1,223 +1,155 @@
-````markdown
-<!-- ========================================= -->
-<!--              GitHub Profile README         -->
-<!-- ========================================= -->
+# <div align="center">Zainab Ali</div>
 
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Zainab Ali Banner"/>
+### Software Engineer • Flutter Developer • Laravel Backend Developer
 
-# Hi, I'm Zainab Ali 👋
+Building scalable applications, robust APIs, and AI-powered solutions with a focus on clean architecture and great user experiences.
 
-### Flutter Engineer • Laravel Backend Developer • AI Enthusiast
-
-<p>
-Building beautiful mobile experiences, scalable backend systems,
-and AI-powered applications.
-</p>
-
-<p>
+<br>
 
 <a href="https://www.linkedin.com/in/zainab-ali-09663931a">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:zainabalirazaofficial@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=zainiali&style=flat-square"/>
-
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1200&center=true&width=700&lines=Flutter+Developer;Laravel+Backend+Engineer;AI+Enthusiast;Clean+Architecture+Advocate;Building+Products+People+Love"/>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+## About
 
-```yaml
-Name: Zainab Ali
+I'm a software engineer specializing in **Flutter** and **Laravel**, with experience building mobile applications, backend systems, REST APIs, and AI-powered products.
 
-Role: Flutter & Laravel Developer
+I enjoy transforming ideas into reliable software, designing maintainable architectures, and creating products that solve real-world problems.
 
-Location: Pakistan 🇵🇰
+My current interests include:
 
-Focus:
-  - Flutter
-  - Laravel
-  - REST APIs
-  - Firebase
-  - AI Integration
-
-Currently Learning:
-  - System Design
-  - Software Architecture
-  - Microservices
-  - AI Engineering
-
-Open To:
-  - Freelance Projects
-  - Open Source
-  - SaaS Development
-  - Startup Collaboration
-```
+* Mobile Application Development
+* Backend Architecture
+* AI Integration
+* System Design
+* SaaS Products
+* Developer Experience
 
 ---
 
-# 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🎓 University Assessment System | Complete evaluation platform with admin & student portal | Flutter • Laravel |
-| 🤖 AI Interview Platform | AI-powered interview preparation app | Flutter • FastAPI |
-| 🍽 Restaurant Management System | Reservation, POS & inventory management | Laravel |
-| 📊 SaaS Dashboard | Analytics dashboard with reporting | Laravel • MySQL |
-
----
-
-# ⚙️ Tech Stack
+## Tech Stack
 
 ### Mobile
 
-<p>
-
 <img src="https://skillicons.dev/icons?i=flutter,dart"/>
-
-</p>
 
 ### Backend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,fastapi"/>
-
-</p>
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,python,fastapi"/>
 
 ### Frontend
 
-<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind,bootstrap"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap"/>
-
-</p>
-
-### Databases
-
-<p>
+### Database
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase"/>
 
-</p>
+### Tools & Platforms
 
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,figma,vercel"/>
-
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,vscode,figma"/>
 
 ---
 
-# 💼 Current Focus
+## Featured Projects
 
-```dart
-class Developer {
+### 🎓 University Assessment System
 
-  const name = "Zainab Ali";
+A complete assessment and evaluation platform designed for universities, supporting students, evaluators, and administrators.
 
-  final expertise = [
-    "Flutter Development",
-    "Laravel REST APIs",
-    "Firebase",
-    "System Design",
-    "AI Integration"
-  ];
+**Stack:** Flutter • Laravel • MySQL
 
-  final goals = [
-    "Build scalable SaaS platforms",
-    "Contribute to Open Source",
-    "Master Cloud Architecture",
-    "Become AI Engineer"
-  ];
+---
 
-}
+### 🤖 AI Resume Parser
+
+Final Year Project focused on extracting structured information from resumes using Large Language Models and the Gemini API.
+
+**Stack:** Flutter • Laravel • Gemini API
+
+---
+
+### 🔍 FindUpNow
+
+A search and discovery platform developed collaboratively from a Figma design system to a production-ready web application.
+
+**Stack:** React • Next.js • Tailwind CSS
+
+---
+
+### 📊 SaaS Analytics Dashboard
+
+A full-stack dashboard providing analytics, reporting, and business insights through modern APIs and responsive interfaces.
+
+**Stack:** Laravel • React • REST API
+
+---
+
+## Current Focus
+
+```text
+✓ Flutter Architecture
+
+✓ Laravel API Development
+
+✓ AI Integration
+
+✓ System Design
+
+✓ SaaS Products
+
+✓ Clean Architecture
 ```
 
 ---
 
-# 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=zainiali&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zainiali&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zainiali&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zainiali&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainiali&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainiali&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## Philosophy
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zainiali&theme=tokyo-night&hide_border=true"/>
-
-</p>
+> Great software is not defined by the amount of code written.
+>
+> It is defined by the value it creates, the problems it solves, and the experience it delivers.
 
 ---
 
-# 🎯 2026 Goals
+## Connect
 
-- ✅ Master System Design
-- ✅ Build AI-powered Applications
-- ✅ Publish Open Source Packages
-- ✅ Learn Cloud Infrastructure
-- ✅ Build High-performance Flutter Apps
-- ✅ Work on Large Scale SaaS Products
-
----
-
-# 💡 Developer Philosophy
-
-> "Good software isn't measured by the amount of code written—
-> it's measured by the value it creates for people."
-
----
-
-# 🌍 Connect With Me
-
-<p>
-
-<a href="https://www.linkedin.com/in/zainab-ali-09663931a">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:zainabalirazaofficial@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+* LinkedIn: https://www.linkedin.com/in/zainab-ali-09663931a
+* Email: [zainabalirazaofficial@gmail.com](mailto:zainabalirazaofficial@gmail.com)
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for stopping by!
-
-If you enjoy my work, consider following my journey and checking out my repositories.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=120&section=footer"/>
+Building software with purpose.
 
 </div>
-````
